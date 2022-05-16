@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7wj101f4B1D1qc0b2/qJranKsEk/gRG8VnzSTCmHJ5IG/9kSpC2S7JxL3nixe6b0t7qzAeFC/CCeQMK6iOK+Q==",
+  "success": true,
+  "projectFilePath": "/Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/02_RestWithASPNET5Udemy_Person/RestWithASPNET5Udemy/RestWithASPNET5Udemy.csproj",
+  "expectedPackageFiles": [
+    "/Users/antoniojr/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/antoniojr/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/antoniojr/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/antoniojr/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/antoniojr/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/antoniojr/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
