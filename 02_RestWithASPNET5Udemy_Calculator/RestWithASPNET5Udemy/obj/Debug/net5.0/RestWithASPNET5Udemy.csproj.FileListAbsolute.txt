@@ -53,3 +53,4 @@
 /Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/02_RestWithASPNET5Udemy_Calculator/RestWithASPNET5Udemy/obj/Debug/net5.0/ref/RestWithASPNET5Udemy.dll
 /Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/02_RestWithASPNET5Udemy_Calculator/RestWithASPNET5Udemy/obj/Debug/net5.0/RestWithASPNET5Udemy.pdb
 /Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/02_RestWithASPNET5Udemy_Calculator/RestWithASPNET5Udemy/obj/Debug/net5.0/RestWithASPNET5Udemy.genruntimeconfig.cache
+/Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/02_RestWithASPNET5Udemy_Calculator/RestWithASPNET5Udemy/obj/Debug/net5.0/RestWithASPNET5Udemy.csproj.AssemblyReference.cache
