@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7FF787F5-9391-43F7-84A9-1818C6903904}|Default">
+  <MonoDevelop.Ide.ItemProperties.RestWithASPNET5Udemy PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestWithASPNET5Udemy/WeatherForecast.cs">
+    <Files>
+      <File FileName="RestWithASPNET5Udemy/Program.cs" Line="1" Column="1" />
+      <File FileName="RestWithASPNET5Udemy/Startup.cs" Line="1" Column="1" />
+      <File FileName="RestWithASPNET5Udemy/WeatherForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestWithASPNET5Udemy" expanded="True">
+            <Node name="RestWithASPNET5Udemy" expanded="True">
+              <Node name="WeatherForecast.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
