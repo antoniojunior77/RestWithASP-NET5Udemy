@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/00_RestWithASPNET5Udemy_ScaffoldViaTerminal/RestWithASPNET5Udemy/RestWithASPNET5Udemy.csproj",
+      "projectUniqueName": "/Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/02_RestWithASPNET5Udemy_Calculator/RestWithASPNET5Udemy/RestWithASPNET5Udemy.csproj",
       "projectName": "RestWithASPNET5Udemy",
-      "projectPath": "/Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/00_RestWithASPNET5Udemy_ScaffoldViaTerminal/RestWithASPNET5Udemy/RestWithASPNET5Udemy.csproj",
+      "projectPath": "/Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/02_RestWithASPNET5Udemy_Calculator/RestWithASPNET5Udemy/RestWithASPNET5Udemy.csproj",
       "packagesPath": "/Users/antoniojr/.nuget/packages/",
-      "outputPath": "/Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/00_RestWithASPNET5Udemy_ScaffoldViaTerminal/RestWithASPNET5Udemy/obj/",
+      "outputPath": "/Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/02_RestWithASPNET5Udemy_Calculator/RestWithASPNET5Udemy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/antoniojr/.config/NuGet/NuGet.Config"

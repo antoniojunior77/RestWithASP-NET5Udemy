@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PcsCC93+ukdFqs/boxLgXZgm9/uOg9XqVzLp1SaA7yGGmRWsEPRT0Wrw4luY4eDifNjZ5dOEmExyHOegvn3Ugg==",
+  "dgSpecHash": "qoz04VbNLz+hOJhYIEmkS+N0k1sbPHgylIVDhdga64duyDeQ2ZHj4Y0A55pEc3IcAge9XbtZwWhK5SZl0rsjyg==",
   "success": true,
-  "projectFilePath": "/Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/00_RestWithASPNET5Udemy_ScaffoldViaTerminal/RestWithASPNET5Udemy/RestWithASPNET5Udemy.csproj",
+  "projectFilePath": "/Volumes/MacHD/dev/projetos_netcore/curso/RestWithASPNet-CoreUdemy/RestWithASP-NET5Udemy/02_RestWithASPNET5Udemy_Calculator/RestWithASPNET5Udemy/RestWithASPNET5Udemy.csproj",
   "expectedPackageFiles": [
     "/Users/antoniojr/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/antoniojr/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
